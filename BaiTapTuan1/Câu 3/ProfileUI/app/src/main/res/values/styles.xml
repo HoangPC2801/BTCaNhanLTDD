@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.ProfileUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize theme colors here -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+
+    <!-- style cho ShapeableImageView để bo tròn 50% (circle) -->
+    <style name="Profile.CircleImage" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
