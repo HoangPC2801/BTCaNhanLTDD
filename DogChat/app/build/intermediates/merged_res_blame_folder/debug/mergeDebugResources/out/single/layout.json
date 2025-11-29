@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-mergeDebugResources-70:\\layout\\fragment_sent_items.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-main-73:\\layout\\fragment_sent_items.xml"
+    },
+    {
+        "merged": "com.hfad.dogchat.app-mergeDebugResources-70:/layout/activity_main.xml",
+        "source": "com.hfad.dogchat.app-main-73:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-mergeDebugResources-70:\\layout\\fragment_inbox.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-main-73:\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-mergeDebugResources-70:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-main-73:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-mergeDebugResources-70:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-main-73:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-mergeDebugResources-70:\\layout\\fragment_help.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.hfad.dogchat.app-main-73:\\layout\\fragment_help.xml"
+    }
+]
