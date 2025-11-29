@@ -1,1 +1,1 @@
-# Bài Tập Cá Nhân Môn Lập Trình Thiết Bị Di Động Up Trên Git Này (Nhánh HoangPC2801)
+# App ví dụ về NavigationUI đề báo cáo E-Learning
