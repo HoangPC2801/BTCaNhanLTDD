@@ -1,5 +1,6 @@
 # App ví dụ về NavigationUI đề báo cáo E-Learning
 MÔ TẢ CƠ BẢN VÀ CÁCH CÀI ĐẶT
+
 a) Mô tả chức năng:
 Ứng dụng minh họa hệ thống điều hướng chuẩn trong Android gồm:
 - Bottom Navigation Bar: Chuyển đổi giữa Hộp thư, Thư đã gửi, Hỗ trợ.
